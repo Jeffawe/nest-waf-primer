@@ -33,7 +33,7 @@
 
 .content-with-background-image{
     
-    background-image: url(/public/img/image4.jpg);
+    background-image: url(/nest-waf-primer/static/img/image4.jpg);
     background-attachment: fixed;
     background-size: auto 1200px;
     background-repeat: no-repeat;
@@ -49,7 +49,7 @@
 
 .content-with-background-image2{
     
-    background-image: url(/public/img/image1.jpg);
+    background-image: url(/nest-waf-primer/static/img/image1.jpg);
     background-attachment: scroll;
     background-size: auto 1200px;
     background-repeat: no-repeat;
